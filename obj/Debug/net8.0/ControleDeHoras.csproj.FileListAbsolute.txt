@@ -1,0 +1,14 @@
+D:\main\C#\ControleDeHoras\obj\Debug\net8.0\ControleDeHoras.GeneratedMSBuildEditorConfig.editorconfig
+D:\main\C#\ControleDeHoras\obj\Debug\net8.0\ControleDeHoras.AssemblyInfoInputs.cache
+D:\main\C#\ControleDeHoras\obj\Debug\net8.0\ControleDeHoras.AssemblyInfo.cs
+D:\main\C#\ControleDeHoras\obj\Debug\net8.0\ControleDeHoras.csproj.CoreCompileInputs.cache
+D:\main\C#\ControleDeHoras\bin\Debug\net8.0\ControleDeHoras.exe
+D:\main\C#\ControleDeHoras\bin\Debug\net8.0\ControleDeHoras.deps.json
+D:\main\C#\ControleDeHoras\bin\Debug\net8.0\ControleDeHoras.runtimeconfig.json
+D:\main\C#\ControleDeHoras\bin\Debug\net8.0\ControleDeHoras.dll
+D:\main\C#\ControleDeHoras\bin\Debug\net8.0\ControleDeHoras.pdb
+D:\main\C#\ControleDeHoras\obj\Debug\net8.0\ControleDeHoras.dll
+D:\main\C#\ControleDeHoras\obj\Debug\net8.0\refint\ControleDeHoras.dll
+D:\main\C#\ControleDeHoras\obj\Debug\net8.0\ControleDeHoras.pdb
+D:\main\C#\ControleDeHoras\obj\Debug\net8.0\ControleDeHoras.genruntimeconfig.cache
+D:\main\C#\ControleDeHoras\obj\Debug\net8.0\ref\ControleDeHoras.dll
